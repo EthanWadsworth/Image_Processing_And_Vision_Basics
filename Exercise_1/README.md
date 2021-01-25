@@ -1,0 +1,1 @@
+# Exercise 1 - Introduction to Images and Colorspaces
